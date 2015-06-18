@@ -8,7 +8,7 @@ url="http://www.jarzebski.pl/projekty/dreamdesktop.html"
 license=('GPL')
 depends=('kdelibs' 'ffmpeg')
 makedepends=('automoc4' 'cmake')
-source=("http://www.jarzebski.pl/dreamdesktop/$pkgname-$pkgver.tar.bz2")
+source=("http://www.jarzebski.pl/files/dreamdesktop/$pkgname-$pkgver.tar.bz2")
 md5sums=('da6213df1c214eabf0640ec11fdfb398')
 
 build() {
